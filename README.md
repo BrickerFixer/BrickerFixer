@@ -1,5 +1,4 @@
 
 # Hi there!
-
-## I am:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=32&pause=1000&color=C6D0F5&vCenter=true&width=435&lines=A+nice+student;An+Android+developer;A+tech+modder;An+overall+IT+enthusiast" alt="Typing SVG" /></a>
+Not much to say... Learning C++ and Kotlin as of now, or at least trying to. Remaking Turnable, my project from almost 2 years ago.
+I kinda know java too, but my knowledge has long dropped due to the lack of practice caused by some circumstances and events.
